@@ -133,6 +133,9 @@
         width: 130px; 
         font-size: 20px;
     }
+    #house{
+        width:100vw;
+    }
     /* @keyframes animie1{
           from{
                transform: translate(0px);  
